@@ -75,7 +75,7 @@ namespace QuickBuy.Web
                 {
                     spa.UseAngularCliServer(npmScript: "start");
 
-                    //spa.UseProxyToSpaDevelopmentServer("http://localhost:4200/");
+                    //spa.UseProxyToSpaDevelopmentServer("http://localhost:5001/");
                     // Acessando esse link   => busca o codigo fonte neste link
                     // https://localhost:5001/ => http://localhost:4200/
                 }
